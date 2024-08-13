@@ -1,0 +1,8 @@
+// Configures a path alias "@" to refer to the project's root directory, simplifying and shortening import paths.
+{
+  "compilerOptions": {
+    "paths": {
+      "@/*": ["./*"]
+    }
+  }
+}

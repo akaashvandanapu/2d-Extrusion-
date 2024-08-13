@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* Imports Tailwind's base styles, component classes, and utility classes for global styling in the application. */
